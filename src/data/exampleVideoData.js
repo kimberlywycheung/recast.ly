@@ -8,7 +8,7 @@ var exampleVideoData = [
     "id": {
       "kind": "youtube#video",
       "videoId": "dYh6R4Jhxoo"
-    },
+      },
     "snippet": {
       "publishedAt": "2020-11-24T17:00:10Z",
       "channelId": "UC0v-tlzsn0QZwJnkiaUSJVQ",
